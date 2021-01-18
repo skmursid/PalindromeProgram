@@ -1,10 +1,5 @@
 package com.program;
 
-//
-// Source code recreated from a .class file by IntelliJ IDEA
-// (powered by FernFlower decompiler)
-//
-
 class LongestPalindrome {
     static int beginIndex, strSize;
 
