@@ -1,5 +1,8 @@
 package com.program;
 
+/**
+ * Class to Find Longest Palindrome sequence 
+ */
 class LongestPalindrome {
     static int beginIndex, strSize;
 
